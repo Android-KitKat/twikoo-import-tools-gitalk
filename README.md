@@ -1,4 +1,9 @@
 # twikoo-import-tools-gitalk
+Gitalk 到 Twikoo 迁移脚本
+
+未完工，正在填坑中。
+
+目前无法使用。
 
 ## Project setup
 ```
